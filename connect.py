@@ -116,10 +116,10 @@ global default_tablespace
 global state 
 global grants
 
-hostname = '172.17.208.10'
-service_name = 'seora'
-user = 'system'
-password = 'oracle'
+hostname = ''
+service_name = ''
+user = ''
+password = ''
 schema = 'tmgtest'
 schema_password = 'tmgtest' 
 default_tablespace = 'test'
