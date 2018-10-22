@@ -512,7 +512,6 @@ def main():
         else:
             module.exit_json(msg='The schema (%s) doesn\'t exist' % schema, changed=False)
 
-declarar como argumento de módulo um dict e verificar suas chaves?
     module.exit_json(msg='Undhandled exit', changed=False)
 
 
